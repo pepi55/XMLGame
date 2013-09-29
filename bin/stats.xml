@@ -3,5 +3,6 @@
 <game>
 	<player>
 		<color>0X00FFFF</color>
+		<outline>0XFF00FF</outline>
 	</player>
 </game>
