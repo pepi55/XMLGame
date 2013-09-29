@@ -8,8 +8,9 @@ package com.powerflasher.xmlGame {
 		public function Bullet($color:uint, $outline:uint) {
 			graphics.lineStyle(1, $outline);
 			graphics.beginFill($color);
-			graphics.lineTo(10, 20);
-			graphics.lineTo(-10, 0);
+			graphics.lineTo(5, 0);
+			graphics.lineTo(0, -20);
+			graphics.lineTo(-5, 0);
 			graphics.endFill();
 		}
 	}

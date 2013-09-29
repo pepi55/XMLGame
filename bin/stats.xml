@@ -5,4 +5,16 @@
 		<color>0X00FFFF</color>
 		<outline>0XFF00FF</outline>
 	</player>
+
+	<bullet>
+		<color>0XFF0000</color>
+		<outline>0X0F0F00</outline>
+
+		<speed>10</speed>
+	</bullet>
+
+	<enemy>
+		<color>0XFF00FF</color>
+		<outline>0X00FF00</outline>
+	</enemy>
 </game>
